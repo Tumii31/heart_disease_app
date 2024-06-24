@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the saved model
-model = joblib.load('heart_disease_model.pkl')
+model = joblib.load('heart1_disease_model.pkl')
 
 # Create a Streamlit application
 st.title('Heart Disease Prediction')
