@@ -47,4 +47,4 @@ if st.button('Predict'):
     else:
         st.write('The patient does not likely suffer from heart disease.')
 
-streamlit heart1_disease_app.py
+streamlit run heart1_disease_app.py
